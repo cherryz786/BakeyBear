@@ -1,6 +1,6 @@
 # BakeyBear
 
-#### This one's for you with love, Zuha
+#### For you with love, Zuha
 Have you ever found yourself pondering over a bunch of ingredients, unsure of what to make for a meal? This project is perfect for providing you with some ideas or guidance!
 
 Welcome to the charming world of BakeyBear, where the gentle paw of a furry friend leads you on a culinary adventure filled with laughter, love, and the aroma of freshly baked goodies!
